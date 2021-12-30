@@ -1,0 +1,18 @@
+= Log4jShell POC
+
+image:https://img.shields.io/badge/licence-APACHE--2-blue.svg[APACHE v2 License, link=#copyright]
+
+Ce projet contient les exemples utilisés sur mes billets concernant la vulnérabilité de Log4j (CVE-2021-44228) sur mon site https://www.lilian-benoit.fr
+
+ - https://www.lilian-benoit.fr/2021/12/CVE-2021-44228-et-Apache-Log4j.html[CVE-2021-44228 et Apache Log4j]
+ - https://www.lilian-benoit.fr/2021/12/CVE-2021-44228-et-Apache-Log4j-2ePartie.htmlVE-2021-44228 et Apache Log4j (2e partie)]
+
+
+
+== Copyright
+
+Copyright (C) 2021 Lilian BENOIT.
+Free use of this software is granted under the terms of the Apache v2 License.
+
+For the full text of the license, see the LICENSE file.
+
