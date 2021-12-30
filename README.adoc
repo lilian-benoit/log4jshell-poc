@@ -5,7 +5,7 @@ image:https://img.shields.io/badge/licence-APACHE--2-blue.svg[APACHE v2 License,
 Ce projet contient les exemples utilisés sur mes billets concernant la vulnérabilité de Log4j (CVE-2021-44228) sur mon site https://www.lilian-benoit.fr
 
  - https://www.lilian-benoit.fr/2021/12/CVE-2021-44228-et-Apache-Log4j.html[CVE-2021-44228 et Apache Log4j]
- - https://www.lilian-benoit.fr/2021/12/CVE-2021-44228-et-Apache-Log4j-2ePartie.htmlVE-2021-44228 et Apache Log4j (2e partie)]
+ - https://www.lilian-benoit.fr/2021/12/CVE-2021-44228-et-Apache-Log4j-2ePartie.html[CVE-2021-44228 et Apache Log4j (2e partie)]
 
 
 
